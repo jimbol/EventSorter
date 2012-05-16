@@ -2,8 +2,8 @@
 //  PCData.m
 //  PCPartynaut
 //
-//  Created by Chris Mack on 4/21/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Jim Hall on 4/21/12.
+//  Copyright (c) 2012 cchange. All rights reserved.
 //
 #import "PCAppDelegate.h"
 #import "PCData.h"
