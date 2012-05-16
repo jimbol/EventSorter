@@ -2,7 +2,7 @@
 //  custAnnotation.h
 //  shorelineStandardApp
 //
-//  Created by Chris Mack on 2/20/12.
+//  Created by Jim Hall on 2/20/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
