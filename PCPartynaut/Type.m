@@ -2,7 +2,7 @@
 //  Type.m
 //  PCPartynaut
 //
-//  Created by Chris Mack on 4/28/12.
+//  Created by Jim Hall on 4/28/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
